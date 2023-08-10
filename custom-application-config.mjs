@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'cll546dm000010701iz7udyu5',
-      url: 'fascinating-madeleine-fb940d.netlify.app',
+      url: 'https://fascinating-madeleine-fb940d.netlify.app',
     },
   },
   oAuthScopes: {
