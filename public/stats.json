@@ -8,7 +8,7 @@
       ],
       "assets": [
         {
-          "name": "runtime.8d88ce72ddf610e9cebd.js",
+          "name": "runtime.062d5cb81834c8b6dbe5.js",
           "size": 9630
         },
         {
@@ -32,7 +32,7 @@
           "size": 9839858
         },
         {
-          "name": "runtime.8d88ce72ddf610e9cebd.js.map",
+          "name": "runtime.062d5cb81834c8b6dbe5.js.map",
           "size": 29917
         }
       ],
@@ -792,18 +792,18 @@
     },
     {
       "type": "asset",
-      "name": "5912.reviews.e65191cf445b8ffa5a5b.js",
+      "name": "5912.reviews.7b5f38768b286b9a76c1.js",
       "size": 22202,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "e65191cf445b8ffa5a5b",
+        "chunkhash": "7b5f38768b286b9a76c1",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "5912.reviews.e65191cf445b8ffa5a5b.js.map"
+          "sourceMap": "5912.reviews.7b5f38768b286b9a76c1.js.map"
         },
         "size": 22202
       },
@@ -817,7 +817,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "5912.reviews.e65191cf445b8ffa5a5b.js.map",
+          "name": "5912.reviews.7b5f38768b286b9a76c1.js.map",
           "size": 54931,
           "emitted": true,
           "comparedForEmit": false,
@@ -968,18 +968,18 @@
     },
     {
       "type": "asset",
-      "name": "8595.channels.d6e9a5d5aee6b09d20a2.js",
+      "name": "8595.channels.38b21698d45013a33180.js",
       "size": 19732,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "d6e9a5d5aee6b09d20a2",
+        "chunkhash": "38b21698d45013a33180",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "8595.channels.d6e9a5d5aee6b09d20a2.js.map"
+          "sourceMap": "8595.channels.38b21698d45013a33180.js.map"
         },
         "size": 19732
       },
@@ -993,7 +993,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "8595.channels.d6e9a5d5aee6b09d20a2.js.map",
+          "name": "8595.channels.38b21698d45013a33180.js.map",
           "size": 49165,
           "emitted": true,
           "comparedForEmit": false,
@@ -1200,18 +1200,18 @@
     },
     {
       "type": "asset",
-      "name": "9773.welcome.bea9ed42e4b0678cff44.js",
+      "name": "9773.welcome.b0622d451728a833ea35.js",
       "size": 16532,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "bea9ed42e4b0678cff44",
+        "chunkhash": "b0622d451728a833ea35",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "9773.welcome.bea9ed42e4b0678cff44.js.map"
+          "sourceMap": "9773.welcome.b0622d451728a833ea35.js.map"
         },
         "size": 16532
       },
@@ -1225,7 +1225,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "9773.welcome.bea9ed42e4b0678cff44.js.map",
+          "name": "9773.welcome.b0622d451728a833ea35.js.map",
           "size": 36055,
           "emitted": true,
           "comparedForEmit": false,
@@ -1928,18 +1928,18 @@
     },
     {
       "type": "asset",
-      "name": "238.channel-details.3b53747ffd38b39f2f06.js",
+      "name": "238.channel-details.1a6afcc30eee15703ebc.js",
       "size": 13054,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "3b53747ffd38b39f2f06",
+        "chunkhash": "1a6afcc30eee15703ebc",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "238.channel-details.3b53747ffd38b39f2f06.js.map"
+          "sourceMap": "238.channel-details.1a6afcc30eee15703ebc.js.map"
         },
         "size": 13054
       },
@@ -1953,7 +1953,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "238.channel-details.3b53747ffd38b39f2f06.js.map",
+          "name": "238.channel-details.1a6afcc30eee15703ebc.js.map",
           "size": 36485,
           "emitted": true,
           "comparedForEmit": false,
@@ -2208,18 +2208,18 @@
     },
     {
       "type": "asset",
-      "name": "runtime.8d88ce72ddf610e9cebd.js",
+      "name": "runtime.062d5cb81834c8b6dbe5.js",
       "size": 9630,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "8d88ce72ddf610e9cebd",
+        "chunkhash": "062d5cb81834c8b6dbe5",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "runtime.8d88ce72ddf610e9cebd.js.map"
+          "sourceMap": "runtime.062d5cb81834c8b6dbe5.js.map"
         },
         "size": 9630
       },
@@ -2233,7 +2233,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "runtime.8d88ce72ddf610e9cebd.js.map",
+          "name": "runtime.062d5cb81834c8b6dbe5.js.map",
           "size": 29917,
           "emitted": true,
           "comparedForEmit": false,
@@ -2376,18 +2376,18 @@
     },
     {
       "type": "asset",
-      "name": "6022.review-details.599fa38a75025df881f0.js",
+      "name": "6022.review-details.146058b3ae70ed15a604.js",
       "size": 8695,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "599fa38a75025df881f0",
+        "chunkhash": "146058b3ae70ed15a604",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "6022.review-details.599fa38a75025df881f0.js.map"
+          "sourceMap": "6022.review-details.146058b3ae70ed15a604.js.map"
         },
         "size": 8695
       },
@@ -2401,7 +2401,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "6022.review-details.599fa38a75025df881f0.js.map",
+          "name": "6022.review-details.146058b3ae70ed15a604.js.map",
           "size": 24547,
           "emitted": true,
           "comparedForEmit": false,
@@ -4094,18 +4094,18 @@
     },
     {
       "type": "asset",
-      "name": "7770.routes.375cc46e755b9c86ee19.js",
+      "name": "7770.routes.61d2a108b48a289af0c0.js",
       "size": 1309,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "375cc46e755b9c86ee19",
+        "chunkhash": "61d2a108b48a289af0c0",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "7770.routes.375cc46e755b9c86ee19.js.map"
+          "sourceMap": "7770.routes.61d2a108b48a289af0c0.js.map"
         },
         "size": 1309
       },
@@ -4119,7 +4119,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "7770.routes.375cc46e755b9c86ee19.js.map",
+          "name": "7770.routes.61d2a108b48a289af0c0.js.map",
           "size": 3396,
           "emitted": true,
           "comparedForEmit": false,
@@ -4445,17 +4445,17 @@
     },
     {
       "type": "asset",
-      "name": "9773.welcome.bea9ed42e4b0678cff44.css",
+      "name": "9773.welcome.b0622d451728a833ea35.css",
       "size": 591,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "bea9ed42e4b0678cff44",
+        "chunkhash": "b0622d451728a833ea35",
         "minimized": true,
         "related": {
-          "sourceMap": "9773.welcome.bea9ed42e4b0678cff44.css.map"
+          "sourceMap": "9773.welcome.b0622d451728a833ea35.css.map"
         },
         "size": 591
       },
@@ -4469,7 +4469,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "9773.welcome.bea9ed42e4b0678cff44.css.map",
+          "name": "9773.welcome.b0622d451728a833ea35.css.map",
           "size": 928,
           "emitted": true,
           "comparedForEmit": false,
@@ -4609,5 +4609,5 @@
     }
   ],
   "publicPath": "",
-  "time": 37750
+  "time": 15732
 }

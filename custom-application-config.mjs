@@ -7,6 +7,13 @@ const config = {
   name: 'Product Review',
   entryPointUriPath,
   cloudIdentifier: 'gcp-au',
+  headers: {
+    csp: {
+      "connect-src": ["https://api.stripe.com"],
+      "frame-src": ["https://js.stripe.com", "https://hooks.stripe.com"],
+      "script-src": ["https://js.stripe.com"]
+    }
+  },
   env: {
     development: {
       initialProjectKey: 'cong_development',
