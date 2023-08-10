@@ -6,14 +6,14 @@ import { PERMISSIONS, entryPointUriPath } from './src/constants';
 const config = {
   name: 'Product Review',
   entryPointUriPath,
-  cloudIdentifier: 'gcp-eu',
+  cloudIdentifier: 'gcp-au',
   env: {
     development: {
-      initialProjectKey: 'luma',
+      initialProjectKey: 'cong_development',
     },
     production: {
-      applicationId: 'product_review',
-      url: 'https://candid-gumption-0dcce7.netlify.app',
+      applicationId: 'cll546dm000010701iz7udyu5',
+      url: 'https://fascinating-madeleine-fb940d.netlify.app',
     },
   },
   oAuthScopes: {

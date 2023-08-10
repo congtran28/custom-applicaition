@@ -8,8 +8,8 @@
       ],
       "assets": [
         {
-          "name": "runtime.f8eec8b8edc13e2d7888.js",
-          "size": 9608
+          "name": "runtime.8d88ce72ddf610e9cebd.js",
+          "size": 9630
         },
         {
           "name": "app.fef849f3c97643c30aeb.css",
@@ -21,7 +21,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 3385543,
+      "assetsSize": 3385565,
       "auxiliaryAssets": [
         {
           "name": "app.fef849f3c97643c30aeb.css.map",
@@ -32,12 +32,12 @@
           "size": 9839858
         },
         {
-          "name": "runtime.f8eec8b8edc13e2d7888.js.map",
-          "size": 29877
+          "name": "runtime.8d88ce72ddf610e9cebd.js.map",
+          "size": 29917
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 9870597,
+      "auxiliaryAssetsSize": 9870637,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -200,20 +200,20 @@
     },
     {
       "type": "asset",
-      "name": "9190.9190.092167e2b8cfbc94ea91.js",
-      "size": 156116,
+      "name": "2497.2497.70f5add37fe9c6127899.js",
+      "size": 240868,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "092167e2b8cfbc94ea91",
+        "chunkhash": "70f5add37fe9c6127899",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "9190.9190.092167e2b8cfbc94ea91.js.map"
+          "sourceMap": "2497.2497.70f5add37fe9c6127899.js.map"
         },
-        "size": 156116
+        "size": 240868
       },
       "chunkNames": [],
       "chunkIdHints": [
@@ -225,14 +225,14 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "9190.9190.092167e2b8cfbc94ea91.js.map",
-          "size": 705082,
+          "name": "2497.2497.70f5add37fe9c6127899.js.map",
+          "size": 1278292,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 705082
+            "size": 1278292
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -243,13 +243,13 @@
           "related": {},
           "chunks": [],
           "auxiliaryChunks": [
-            9190
+            2497
           ],
           "isOverSizeLimit": false
         }
       ],
       "chunks": [
-        9190
+        2497
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -316,20 +316,20 @@
     },
     {
       "type": "asset",
-      "name": "3216.3216.b03304554a92f67e06ed.js",
-      "size": 84936,
+      "name": "9375.9375.beda6e9cf4fa672d5f48.js",
+      "size": 53853,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "b03304554a92f67e06ed",
+        "chunkhash": "beda6e9cf4fa672d5f48",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "3216.3216.b03304554a92f67e06ed.js.map"
+          "sourceMap": "9375.9375.beda6e9cf4fa672d5f48.js.map"
         },
-        "size": 84936
+        "size": 53853
       },
       "chunkNames": [],
       "chunkIdHints": [
@@ -341,14 +341,14 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "3216.3216.b03304554a92f67e06ed.js.map",
-          "size": 573207,
+          "name": "9375.9375.beda6e9cf4fa672d5f48.js.map",
+          "size": 232401,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 573207
+            "size": 232401
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -359,69 +359,13 @@
           "related": {},
           "chunks": [],
           "auxiliaryChunks": [
-            3216
+            9375
           ],
           "isOverSizeLimit": false
         }
       ],
       "chunks": [
-        3216
-      ],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "4504.4504.5459e1ed80fcb4ed98c7.js",
-      "size": 59109,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "immutable": true,
-        "chunkhash": "5459e1ed80fcb4ed98c7",
-        "javascriptModule": false,
-        "minimized": true,
-        "related": {
-          "sourceMap": "4504.4504.5459e1ed80fcb4ed98c7.js.map"
-        },
-        "size": 59109
-      },
-      "chunkNames": [],
-      "chunkIdHints": [
-        "vendors"
-      ],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "filteredRelated": 0,
-      "related": [
-        {
-          "type": "sourceMap",
-          "name": "4504.4504.5459e1ed80fcb4ed98c7.js.map",
-          "size": 244769,
-          "emitted": true,
-          "comparedForEmit": false,
-          "cached": false,
-          "info": {
-            "development": true,
-            "size": 244769
-          },
-          "chunkNames": [],
-          "chunkIdHints": [],
-          "auxiliaryChunkNames": [],
-          "auxiliaryChunkIdHints": [
-            "vendors"
-          ],
-          "related": {},
-          "chunks": [],
-          "auxiliaryChunks": [
-            4504
-          ],
-          "isOverSizeLimit": false
-        }
-      ],
-      "chunks": [
-        4504
+        9375
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -848,6 +792,62 @@
     },
     {
       "type": "asset",
+      "name": "5912.reviews.e65191cf445b8ffa5a5b.js",
+      "size": 22202,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "chunkhash": "e65191cf445b8ffa5a5b",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "5912.reviews.e65191cf445b8ffa5a5b.js.map"
+        },
+        "size": 22202
+      },
+      "chunkNames": [
+        "reviews"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "5912.reviews.e65191cf445b8ffa5a5b.js.map",
+          "size": 54931,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 54931
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "reviews"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            5912
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        5912
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
       "name": "953.language-data-en.2cf99e1ca844ded613b4.js",
       "size": 21260,
       "emitted": true,
@@ -968,18 +968,18 @@
     },
     {
       "type": "asset",
-      "name": "8595.channels.b6b2b9d150b6ae01aae1.js",
+      "name": "8595.channels.d6e9a5d5aee6b09d20a2.js",
       "size": 19732,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "b6b2b9d150b6ae01aae1",
+        "chunkhash": "d6e9a5d5aee6b09d20a2",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "8595.channels.b6b2b9d150b6ae01aae1.js.map"
+          "sourceMap": "8595.channels.d6e9a5d5aee6b09d20a2.js.map"
         },
         "size": 19732
       },
@@ -993,14 +993,14 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "8595.channels.b6b2b9d150b6ae01aae1.js.map",
-          "size": 48961,
+          "name": "8595.channels.d6e9a5d5aee6b09d20a2.js.map",
+          "size": 49165,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 48961
+            "size": 49165
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -1200,18 +1200,18 @@
     },
     {
       "type": "asset",
-      "name": "9773.welcome.b0622d451728a833ea35.js",
+      "name": "9773.welcome.bea9ed42e4b0678cff44.js",
       "size": 16532,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "b0622d451728a833ea35",
+        "chunkhash": "bea9ed42e4b0678cff44",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "9773.welcome.b0622d451728a833ea35.js.map"
+          "sourceMap": "9773.welcome.bea9ed42e4b0678cff44.js.map"
         },
         "size": 16532
       },
@@ -1225,7 +1225,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "9773.welcome.b0622d451728a833ea35.js.map",
+          "name": "9773.welcome.bea9ed42e4b0678cff44.js.map",
           "size": 36055,
           "emitted": true,
           "comparedForEmit": false,
@@ -1928,6 +1928,62 @@
     },
     {
       "type": "asset",
+      "name": "238.channel-details.3b53747ffd38b39f2f06.js",
+      "size": 13054,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "chunkhash": "3b53747ffd38b39f2f06",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "238.channel-details.3b53747ffd38b39f2f06.js.map"
+        },
+        "size": 13054
+      },
+      "chunkNames": [
+        "channel-details"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "238.channel-details.3b53747ffd38b39f2f06.js.map",
+          "size": 36485,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 36485
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "channel-details"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            238
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        238
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
       "name": "9462.oidc-callback.7ebdbdbccba3758d4d7b.js",
       "size": 12460,
       "emitted": true,
@@ -2152,20 +2208,20 @@
     },
     {
       "type": "asset",
-      "name": "runtime.f8eec8b8edc13e2d7888.js",
-      "size": 9608,
+      "name": "runtime.8d88ce72ddf610e9cebd.js",
+      "size": 9630,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "f8eec8b8edc13e2d7888",
+        "chunkhash": "8d88ce72ddf610e9cebd",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "runtime.f8eec8b8edc13e2d7888.js.map"
+          "sourceMap": "runtime.8d88ce72ddf610e9cebd.js.map"
         },
-        "size": 9608
+        "size": 9630
       },
       "chunkNames": [
         "runtime"
@@ -2177,14 +2233,14 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "runtime.f8eec8b8edc13e2d7888.js.map",
-          "size": 29877,
+          "name": "runtime.8d88ce72ddf610e9cebd.js.map",
+          "size": 29917,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 29877
+            "size": 29917
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -2320,23 +2376,23 @@
     },
     {
       "type": "asset",
-      "name": "238.channel-details.18264bdf6ead4f53577d.js",
-      "size": 8349,
+      "name": "6022.review-details.599fa38a75025df881f0.js",
+      "size": 8695,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "18264bdf6ead4f53577d",
+        "chunkhash": "599fa38a75025df881f0",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "238.channel-details.18264bdf6ead4f53577d.js.map"
+          "sourceMap": "6022.review-details.599fa38a75025df881f0.js.map"
         },
-        "size": 8349
+        "size": 8695
       },
       "chunkNames": [
-        "channel-details"
+        "review-details"
       ],
       "chunkIdHints": [],
       "auxiliaryChunkNames": [],
@@ -2345,31 +2401,31 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "238.channel-details.18264bdf6ead4f53577d.js.map",
-          "size": 23313,
+          "name": "6022.review-details.599fa38a75025df881f0.js.map",
+          "size": 24547,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 23313
+            "size": 24547
           },
           "chunkNames": [],
           "chunkIdHints": [],
           "auxiliaryChunkNames": [
-            "channel-details"
+            "review-details"
           ],
           "auxiliaryChunkIdHints": [],
           "related": {},
           "chunks": [],
           "auxiliaryChunks": [
-            238
+            6022
           ],
           "isOverSizeLimit": false
         }
       ],
       "chunks": [
-        238
+        6022
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -2621,62 +2677,6 @@
       ],
       "chunks": [
         5148
-      ],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "5912.reviews.ad18741fb077d2850370.js",
-      "size": 7574,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "immutable": true,
-        "chunkhash": "ad18741fb077d2850370",
-        "javascriptModule": false,
-        "minimized": true,
-        "related": {
-          "sourceMap": "5912.reviews.ad18741fb077d2850370.js.map"
-        },
-        "size": 7574
-      },
-      "chunkNames": [
-        "reviews"
-      ],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "filteredRelated": 0,
-      "related": [
-        {
-          "type": "sourceMap",
-          "name": "5912.reviews.ad18741fb077d2850370.js.map",
-          "size": 19787,
-          "emitted": true,
-          "comparedForEmit": false,
-          "cached": false,
-          "info": {
-            "development": true,
-            "size": 19787
-          },
-          "chunkNames": [],
-          "chunkIdHints": [],
-          "auxiliaryChunkNames": [
-            "reviews"
-          ],
-          "auxiliaryChunkIdHints": [],
-          "related": {},
-          "chunks": [],
-          "auxiliaryChunks": [
-            5912
-          ],
-          "isOverSizeLimit": false
-        }
-      ],
-      "chunks": [
-        5912
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -4094,20 +4094,20 @@
     },
     {
       "type": "asset",
-      "name": "7770.routes.6289c68de4616b91c429.js",
-      "size": 1319,
+      "name": "7770.routes.375cc46e755b9c86ee19.js",
+      "size": 1309,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "6289c68de4616b91c429",
+        "chunkhash": "375cc46e755b9c86ee19",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "7770.routes.6289c68de4616b91c429.js.map"
+          "sourceMap": "7770.routes.375cc46e755b9c86ee19.js.map"
         },
-        "size": 1319
+        "size": 1309
       },
       "chunkNames": [
         "routes"
@@ -4119,7 +4119,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "7770.routes.6289c68de4616b91c429.js.map",
+          "name": "7770.routes.375cc46e755b9c86ee19.js.map",
           "size": 3396,
           "emitted": true,
           "comparedForEmit": false,
@@ -4445,17 +4445,17 @@
     },
     {
       "type": "asset",
-      "name": "9773.welcome.b0622d451728a833ea35.css",
+      "name": "9773.welcome.bea9ed42e4b0678cff44.css",
       "size": 591,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "chunkhash": "b0622d451728a833ea35",
+        "chunkhash": "bea9ed42e4b0678cff44",
         "minimized": true,
         "related": {
-          "sourceMap": "9773.welcome.b0622d451728a833ea35.css.map"
+          "sourceMap": "9773.welcome.bea9ed42e4b0678cff44.css.map"
         },
         "size": 591
       },
@@ -4469,7 +4469,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "9773.welcome.b0622d451728a833ea35.css.map",
+          "name": "9773.welcome.bea9ed42e4b0678cff44.css.map",
           "size": 928,
           "emitted": true,
           "comparedForEmit": false,
@@ -4609,5 +4609,5 @@
     }
   ],
   "publicPath": "",
-  "time": 24464
+  "time": 37750
 }
