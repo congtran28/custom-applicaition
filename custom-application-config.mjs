@@ -12,7 +12,7 @@ const config = {
       initialProjectKey: 'cong_development',
     },
     production: {
-      applicationId: 'product_review',
+      applicationId: 'cll546dm000010701iz7udyu5',
       url: 'fascinating-madeleine-fb940d.netlify.app',
     },
   },
