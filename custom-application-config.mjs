@@ -9,11 +9,11 @@ const config = {
   cloudIdentifier: 'gcp-eu',
   env: {
     development: {
-      initialProjectKey: 'luma',
+      initialProjectKey: 'cong_development',
     },
     production: {
       applicationId: 'product_review',
-      url: 'https://candid-gumption-0dcce7.netlify.app',
+      url: 'fascinating-madeleine-fb940d.netlify.app',
     },
   },
   oAuthScopes: {
